@@ -9,7 +9,7 @@ audience and generate more business.
 
 The target audience is private individuals looking for a reliable local garage for repairs, advice or used cars and motorbikes.
 
-##User stories
+## User stories
 
 * User 1 has a specific issue with their car and they check if this garage is potentially able to fix it by reading up about the services on the homepage.
 
