@@ -65,3 +65,41 @@ header li a:hover::before {
   font-size:20px;
   margin-right:10px;
 }
+/*body*/
+body{
+  position:relative;
+  padding-bottom:600px;
+  font-family:'Raleway',sans-serif; 
+  background-image: linear-gradient(rgba(0,0,0,0.7),rgba(0,0,0,0.7)),url("/assets/images/engine.jpg");
+  background-size:cover;
+  background-position:center center;
+  background-repeat:no-repeat;
+  background-attachment: fixed;
+}
+/*homepage*/
+#content{
+  width:100%;
+  color:white;
+  font-size:1.25em;
+  text-align:center;
+  top:70px;
+  padding:0;
+}
+#subtitle{
+  margin:70px;
+  line-height:150%;
+}
+.services li{
+list-style-type: none;
+}
+.services li i{
+margin-right:10px;
+}
+main h1{
+  font-weight:bold;
+  padding-top:25px;
+  padding-bottom:25px;
+  text-align: center;
+  background-color:rgba(0,0,0,0.7);
+  width:100%;
+ }
