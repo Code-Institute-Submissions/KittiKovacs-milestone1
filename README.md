@@ -54,6 +54,16 @@ enquiry, I have something for sale, etc.)
 * Bootstrap
 
 ## Testing
+All HTML code passed the W3C's [markup validation](https://validator.w3.org/).
+![HTML validation index](../assets/testing/htmlvalidation-indexpage.png)
+![HTML validation cars](../assets/testing/htmlvalidation-carspage.png)
+![HTML validation contact](../assets/testing/htmlvalidation-contactpage.png)
+
+
+
+The CSS code passed the W3C's [CSS validation](https://jigsaw.w3.org/css-validator/).
+![css validation](../assets/testing/cssvalidation.png)
+![css validation-2](../assets/testing/cssvalidation-2.png)
 
 
 ## Deployment
