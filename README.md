@@ -4,7 +4,7 @@ The project is a website for a real-life small car and motorbike repairs and mot
 
 ## UX
 
- The purpose of this project is to make the garage and its services accessible to a wider
+ The purpose of this project is to make the garage and its services known to a wider
 audience and generate more business.
 
 The target audience is private individuals looking for a reliable local garage for repairs, advice or used cars and motorbikes.
@@ -25,14 +25,14 @@ The website is responsive, on medium and small viewports the telephone number is
 ## Features
 
 ### Existing Features
-* **Header**-contains company name and logo, navigation links and basic contact details. The navigation links have get an underline animation on mouse hover .By clicking on the companty logo the user is able to return to the main page from any page.
-
+* **Header**-contains company name and logo, navigation links and basic contact details. The navigation links get an underline animation on mouse hover. By clicking on the companty logo the user is able to return to the main page from any page.
+ 
 * **Footer**- Contains links to **social media** pages. This is currently the company's Facebook page only. The Facebook logo changes colour on mouse hover to indicate to the user that there is an action available.
 
 * **Home page** – contains a short introduction and a list of **services** provided by the garage. The list style icons are replaced by a wrench icon to match the company's profile. 
-This page also contains a callout to users who are interested in buying car parts and a link to the owner's Ebay page in the form of a button shaped image. 
+This page also contains a callout to users who are interested in buying car parts and a link to the owner's Ebay page. 
 
-*  **Cars&Bikes page**- Contains a short description of cars and motorbikes currently for sale and a**photo gallery** below each description. On hovering over the thumbnail images with the mouse they enlarge by 25%. Each image opens in a separate browser tab when a user clicks on them. 
+* **Cars&Bikes page**- Contains a short description of cars and motorbikes currently for sale and a**photo gallery** below each description. On hovering over the thumbnail images with the mouse they enlarge by 25%. Each image opens in a separate browser tab when a user clicks on them. 
 
 * **Contact page**-informs the user about the **address** of the business and **opening times**; features a **Google maps** snippet which leads to the Google Maps website when clicked on. The page also features a **contact form** that is  going to enable users in the future to send a message to the business directly when they click on the Send button. The button changes colour and the cursor changes to a pointer on mouse hover.
 
