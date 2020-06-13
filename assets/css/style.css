@@ -1,7 +1,8 @@
 *{
   margin: 0; 
   padding: 0; 
-  border: 0;}
+  border: 0;
+  }
 
 /*header*/
 header{
@@ -31,6 +32,7 @@ header li a:hover{
   text-decoration:none;
   color:black;
 }
+
 /*menu items animation:*https://tobiasahlin.com/blog/css-trick-animating-link-underlines/*/
 header li a::before {
   content:"";
@@ -65,6 +67,7 @@ header li a:hover::before {
   font-size:20px;
   margin-right:10px;
 }
+
 /*body*/
 body{
   position:relative;
@@ -76,6 +79,7 @@ body{
   background-repeat:no-repeat;
   background-attachment: fixed;
 }
+
 /*homepage*/
 #content{
   width:100%;
@@ -124,8 +128,8 @@ color:red;
 background-color:rgba(0,0,0,0.7);
 font-size:1.5em;
 }
-/*footer*/
 
+/*footer*/
 footer{
   background-color:black;
   position:absolute;
@@ -169,6 +173,7 @@ footer{
     color: #1E6D9E;
     background-color:#ffffff;
 }
+
 /*gallery styling*/
 .description{
   margin-top: 25px;
@@ -189,4 +194,44 @@ footer{
   -webkit-transform: scale(1.5);
   -ms-transform: scale(1.5);
   transform: scale(1.5);
+}
+
+/*contact page*/
+.address-container{
+ margin:70px 30px 30px 30px;
+ letter-spacing: 2px;
+ background-color:rgba(0,0,0,0.7);
+ justify-content:center;
+}
+#address{
+  text-decoration: underline;
+}
+#address i{
+margin-right:15px;
+}
+.opening-container{
+ margin:0 30px 30px;
+ letter-spacing: 2px;
+ background-color:rgba(0,0,0,0.7);
+ justify-content:center;
+}
+#opening{
+  text-decoration: underline;
+}
+#opening i{
+margin-right:15px;
+}
+.map-container{
+  justify-content: center;
+  align-items:center;
+}
+.map{
+border:2px solid white;
+max-height:555px;
+max-width:555px;
+margin:70px 30px 70px 0px;
+}
+.map iframe{
+max-height:550px;
+max-width:550px;
 }
