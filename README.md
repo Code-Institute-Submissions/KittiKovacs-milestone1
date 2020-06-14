@@ -9,6 +9,8 @@ audience and generate more business.
 
 The target audience is private individuals looking for a reliable local garage for repairs, advice or used cars and motorbikes.
 
+[Wireframe](https://github.com/KittiKovacs/Milestone-Project-1-User-Centric-Front-End-Development/blob/master/GL%20Motors%20wireframes.pdf)
+
 ## User stories
 
 * User 1 has a specific issue with their car and they check if this garage is potentially able to fix it by reading up about the services on the homepage.
@@ -49,32 +51,34 @@ enquiry, I have something for sale, etc.)
 
 ## Technologies Used
 
-* HTML
-* CSS
-* Bootstrap
-
+* HTML to create the code for the website's content
+* CSS to add styling to HTML
+* Bootstrap for advaced styling and positioning
 ## Testing
-All HTML code passed the W3C's [markup validation](https://validator.w3.org/).
-![HTML validation index](../assets/testing/htmlvalidation-indexpage.png)
-![HTML validation cars](../assets/testing/htmlvalidation-carspage.png)
-![HTML validation contact](../assets/testing/htmlvalidation-contactpage.png)
 
+
+All HTML code passed the W3C's [markup validation](https://validator.w3.org/).
+![HTML validation index](assets/testing/htmlvalidation-indexpage.png)
+![HTML validation cars](assets/testing/htmlvalidation-carspage.png)
+![HTML validation contact](assets/testing/htmlvalidation-contactpage.png)
 
 
 The CSS code passed the W3C's [CSS validation](https://jigsaw.w3.org/css-validator/).
-![css validation](../assets/testing/cssvalidation.png)
-![css validation-2](../assets/testing/cssvalidation-2.png)
+![css validation](assets/testing/cssvalidation.png)
+![css validation-2](assets/testing/cssvalidation-2.png)
 
 
 ## Deployment
 
+The 
+
 ## Credits
 
 * Code Institute course material
-* Bootstrap
+* Bootstrapv 4.5.0 (https://getbootstrap.com/)
 * Font Awesome
 * Google Fonts
 * Google Maps
-* https://www.w3schools.com/
+* (https://www.w3schools.com/)
 * my Tutor Guido Cecilio Garcia Bernal
 * Image sources: https://www.pexels.com/, the garage's owner's own photos of vehicles for sale
