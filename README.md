@@ -1,6 +1,6 @@
 # Milestone-Project-1-User-Centric-Front-End-Development
 
-The project is a website for a real-life small car and motorbike repairs and motor trader business. The purpose of this project is to introduce the garage and its services, to serve as a platform for advertising the items on sale and to generate more business. It contains 3 pages: the homepage povides and overview of the garage's services, the second page features the vehicles that are available for purchase and the contact page provides contact information and a contactc form.
+The project is a website for a real-life small car and motorbike repairs and motor trader business. The purpose of this project is to introduce the garage and its services, to serve as a platform for advertising the items on sale and to generate more business. It contains 3 pages: the homepage povides and overview of the garage's services, the second page features the vehicles that are available for purchase and the contact page provides contact information and a contact form.
 
 ## UX
 The target audience is private individuals looking for a reliable local garage for repairs, advice or used cars and motorbikes. This website is easy to navigate, provides all essential information for the visitor to be able to decide whether they want to take the next step and contact the business. The website invites visitors to get in touch and offers them multiple options, including links to other sites like Facebook or Ebay. 
@@ -78,27 +78,30 @@ User story 3:
 3. Click on map to access a larger version. 
 4. Call contact number.
 
-Testing features:
-1. Link to Ebay:
-i. Scroll down the homepage to find Ebay image.
-ii. Click on image to activate link.The link is for the seller's page on Ebay.
+**Testing features:**
 
-2. Link to Facebook
-i. Find Facebook icon in the footer on any page.
-ii. Click on icon to activate link that leads to the relevant Facebok profile.
+*Link to Ebay*
+ 1. Scroll down the homepage to find Ebay image.
+ 2. Click on image to activate link.The link is for the seller's page on Ebay.
 
-3. Gallery
-i. Choose "Cars and Bikes for sale in the navigation bar
-ii. Hover over the images to enlarge them.
-iii. Click on individual images to open them in a new tab
+*Link to Facebook* 
+ 1. Find Facebook icon in the footer on any page.
+ 2. Click on icon to activate link that leads to the relevant Facebok profile.
 
-4. Form
-i. Go to Contact page
-ii. Scroll down to find contact form.
-iii. Try to submit form without valid email address.
-iiii. Add valid email address an submit form. This action leads to a new page informing the user that this feature is not available.
-iiiii. Click on the arrow to return to Contact page.
+*Gallery*
+1. Choose "Cars and Bikes for sale in the navigation bar
+2. Hover over the images to enlarge them.
+3. Click on individual images to open them in a new tab
 
+*Form*
+1. Go to Contact page
+2. Scroll down to find contact form.
+3. Try to submit form without valid email address.
+4. Add valid email address an submit form. This action leads to a new page informing the user that this feature is not available.
+5. Click on the arrow to return to Contact page.
+
+All HTML code passed the W3C's [markup validation](https://validator.w3.org/).
+The CSS code passed the W3C's [CSS validation](https://jigsaw.w3.org/css-validator/).
 
 ## Deployment
 
@@ -107,9 +110,6 @@ The project was created in GitPod and deployed on GitHub. I also used Repl.it fo
 I deployed the project to GitHub in small increments starting with the header and footer which I copied from index.html to the other 2 pages. Originally I created a separate page for the car parts but I couldn't fill it with enough information so I removed it and placed the Ebay link on the homepage. I did a lot of research on positioning to make the website responsive which took up most of my time during development process. I used Chrome developer tools extensively to help me throughout the process.
 
 I added an additional page containing a short error message as an afterthought, which is not accessible via the navigation links. I realized that the contact form I created doesn't actually perform an action which would be confusing to users. Now clicking on the Send button takes the user to this page informing them that this feature is temporarily unavailable and gives options as to what to do next.
-
-All HTML code passed the W3C's [markup validation](https://validator.w3.org/).
-The CSS code passed the W3C's [CSS validation](https://jigsaw.w3.org/css-validator/).
 
 ## Credits
 
