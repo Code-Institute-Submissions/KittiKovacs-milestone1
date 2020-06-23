@@ -74,7 +74,7 @@ body{
   position:relative;
   padding-bottom:600px;
   font-family:'Raleway',sans-serif; 
-  background-image: linear-gradient(rgba(0,0,0,0.7),rgba(0,0,0,0.7)),url("assets/images/engine.jpg");
+  background-image: linear-gradient(rgba(0,0,0,0.7),rgba(0,0,0,0.7)),url("../images/engine.jpg");
   background-size:cover;
   background-position:center center;
   background-repeat:no-repeat;
