@@ -1,6 +1,6 @@
 # Milestone-Project-1-User-Centric-Front-End-Development
 
-The project is a static website for a real-life small car and motorbike repairs and motor trader business. The purpose of this project is to introduce the garage and its services, to serve as a platform for advertising the items on sale and to generate more business. It contains 3 pages: the homepage povides and overview of the garage's services, the second page features the vehicles that are available for purchase and the contact page provides contact information and a contact form.
+The project is a static website for a real-life small car and motorbike repairs and motor trader business. The purpose of this project is to introduce the garage and its services, to serve as a platform for advertising the items on sale and to generate more business.
 
 ## UX
 The target audience is private individuals looking for a reliable local garage for repairs, advice or used cars and motorbikes. This website is easy to navigate, provides all essential information for the visitor to be able to decide whether they want to take the next step and contact the business. The website invites visitors to get in touch and offers them multiple options, including links to other sites like Facebook or Ebay. 
@@ -35,7 +35,7 @@ This page also contains a callout to users who are interested in buying car part
 
 * **Cars&Bikes page**- Contains a short description of cars and motorbikes currently for sale and a **photo gallery** below each description. On hovering over the thumbnail images with the mouse they enlarge by 25%. Each image opens in a separate browser tab when a user clicks on them. 
 
-* **Contact page**-informs the user about the **address** of the business and **opening times**; features a **Google maps** snippet which leads to the Google Maps website when clicked on. The page also features a **contact form** that is  going to enable users in the future to send a message to the business directly when they click on the Send button. Currently it leads to a subpage with a message informing the user that this feature is not available yet. The button changes colour and the cursor changes to a pointer on mouse hover.
+* **Contact page**-informs the user about the **address** of the business and **opening times**; features an interactive map from **Google maps**. The page also features a **contact form** that is  going to enable users in the future to send a message to the business directly when they click on the Send button. The button changes colour and the cursor changes to a pointer on mouse hover.
 
 ### Features Left to Implement
 
@@ -52,10 +52,10 @@ enquiry, I have something for sale, etc.)
 
 * HTML to create the code for the website's content
 * CSS to add styling to HTML
-* Bootstrap v 4.5.0 (https://getbootstrap.com/) for advaced styling and positioning. This includes the grid structure and parts of the navigation.
-* Font Awesome (https://fontawesome.com/) for the icons
-* Google Fonts(https://fonts.google.com/) for the fonts used on the site
-* Google Maps (https://www.google.com/maps) for the map featured on the Contact page.
+* [Bootstrap v 4.5.0](https://getbootstrap.com/) for advaced styling and positioning. This includes the grid structure and parts of the navigation.
+* [Font Awesome](https://fontawesome.com/) for the icons
+* [Google Fonts](https://fonts.google.com/) for the fonts used on the site
+* [Google Maps](https://www.google.com/maps) for the map featured on the Contact page.
 
 ## Testing
 
@@ -87,7 +87,7 @@ The CSS code passed the W3C's [CSS validation](https://jigsaw.w3.org/css-validat
 
 ## Deployment
 
-My website is currently deployed on Github Pages - https://github.com/KittiKovacs/KittiKovacs.github.io directly from the master branch.
+My website is currently deployed on Github Pages - https://kittikovacs.github.io/milestone1/ directly from the master branch.
 
 I used Repl.it for testing new ideas or small changes as I find Gitpod is not really suitable for this purpose.
 
@@ -99,8 +99,8 @@ I deployed the project to GitHub in small increments. Originally I created a sep
 All content was provided by GL Motors.
 
 ### Media
-* Image sources: https://www.pexels.com/ 
-* the owner's own photos of vehicles for sale.
+* Image sources: [Pexels] https://www.pexels.com/ 
+* The owner's own photos of vehicles for sale.
 
 ### Acknowledgements
 My inspiration for the project was my partner who owns this business and he helped me by providing photos and all the information I needed to make the website suitable for a real business as well as his insight as a client.
@@ -108,6 +108,7 @@ My inspiration for the project was my partner who owns this business and he help
 My Tutor Guido Cecilio Garcia Bernal had great suggestions and helped me fix some problems.
 
 [W3schools](https://www.w3schools.com/) to create the contact form and image gallery.
+
 The animation of the menu items was inspired by [Tobias Ahlin](https://tobiasahlin.com/blog/css-trick-animating-link-underlines/*/)
 
 
