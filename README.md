@@ -89,7 +89,7 @@ My website is currently deployed on Github Pages - https://kittikovacs.github.io
 
 I used Repl.it for testing new ideas or small changes as I find Gitpod is not really suitable for this purpose.
 
-I deployed the project to GitHub in small increments. I did a lot of research on positioning to make the website responsive which took up most of my time during development process. I used Chrome developer tools extensively to help me throughout the process.
+I deployed the project to GitHub in small increments. I did a lot of research on positioning to make the website responsive which took up most of my time during development process, as well as optimizing image sizes. I used Chrome developer tools extensively to help me throughout the process.
 
 ## Credits
 
