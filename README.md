@@ -33,7 +33,7 @@ Please click on the link below for the wireframe mockups created for the project
 * **Home page** – contains a short introduction and a list of **services** provided by the garage. The list style icons are replaced by a wrench icon to match the company's profile. 
 This page also contains a callout to users who are interested in buying car parts and a link to the owner's Ebay page. 
 
-* **Cars&Bikes page**- Contains a short description of cars and motorbikes currently for sale and a **photo gallery** below each description. On hovering over the thumbnail images with the mouse they enlarge by 25%. Each image opens in a separate browser tab when a user clicks on them. 
+* **Cars&Bikes page**- Contains a short description of cars and motorbikes currently for sale and a **photo gallery** below each description. Each image opens in a separate browser tab when a user clicks on them. 
 
 * **Contact page**-informs the user about the **address** of the business and **opening times**; features an interactive map from **Google maps**. The page also features a **contact form** that is  going to enable users in the future to send a message to the business directly when they click on the Send button. The button changes colour and the cursor changes to a pointer on mouse hover.
 
@@ -44,9 +44,7 @@ This page also contains a callout to users who are interested in buying car part
 enquiry, I have something for sale, etc.) 
 * Animated image gallery with professional photos of the cars for sale
 * Language choice options
-* News section
-* Blog
-* Client testimonials
+* Additional pages such as News, Blog, Client testimonials
 
 ## Technologies Used
 
@@ -59,7 +57,7 @@ enquiry, I have something for sale, etc.)
 
 ## Testing
 
-I tested all off the features and they all work as intended.
+I tested all off the features and they all work as intended. I found no broken links.
 
 *Link to Ebay*
  1. Scroll down the homepage to find Ebay image.
@@ -91,7 +89,7 @@ My website is currently deployed on Github Pages - https://kittikovacs.github.io
 
 I used Repl.it for testing new ideas or small changes as I find Gitpod is not really suitable for this purpose.
 
-I deployed the project to GitHub in small increments. Originally I created a separate page for the car parts but I couldn't fill it with enough information so I removed it and placed the Ebay link on the homepage. I did a lot of research on positioning to make the website responsive which took up most of my time during development process. I used Chrome developer tools extensively to help me throughout the process.
+I deployed the project to GitHub in small increments. I did a lot of research on positioning to make the website responsive which took up most of my time during development process. I used Chrome developer tools extensively to help me throughout the process.
 
 ## Credits
 
