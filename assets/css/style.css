@@ -189,13 +189,13 @@
 /* source: https://www.w3schools.com/howto/howto_css_thumbnail.asp*/
  #images img{
      border:1px solid black;
-     max-width: 250px;
-     height:150px;
+     max-width:350px;
+     max-height:150px;
 }
- #images img:hover {
+/* #images img:hover {
      -webkit-transform: scale(2);
      -ms-transform: scale(2);
-     transform: scale(2);
+     transform: scale(2);*/
 }
 /*contact page*/
  .address-container{
