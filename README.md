@@ -42,7 +42,7 @@ This page also contains a callout to users who are interested in buying car part
 * Webshop
 * More complex contact form with subject options (Request a part, general
 enquiry, I have something for sale, etc.) 
-* Animated image gallery with professional photos of the cars for sale
+* Animated image gallery with professional photos of the cars for sale. Images currently displayed as thumbnails while full size images appear onnce thumbnail is selected, however download speed still could be improved.
 * Language choice options
 * Additional pages such as News, Blog, Client testimonials
 
@@ -57,7 +57,7 @@ enquiry, I have something for sale, etc.)
 
 ## Testing
 
-I tested all off the features and they all work as intended. I found no broken links.
+I tested all of the features and they all work as intended. I found no broken links.
 
 *Link to Ebay*
  1. Scroll down the homepage to find Ebay image.
@@ -103,9 +103,9 @@ All content was provided by GL Motors.
 ### Acknowledgements
 My inspiration for the project was my partner who owns this business and he helped me by providing photos and all the information I needed to make the website suitable for a real business as well as his insight as a client.
 
-My Tutor Guido Cecilio Garcia Bernal had great suggestions and helped me fix some problems.
+My Tutor Guido Cecilio Garcia Bernal had great suggestions and helped me fix some problems, including form action and image sizes.
 
-[W3schools](https://www.w3schools.com/) to create the contact form and image gallery.
+I visited [W3schools](https://www.w3schools.com/) to get help creating the contact form and thumbnail images.
 
 The animation of the menu items was inspired by [Tobias Ahlin](https://tobiasahlin.com/blog/css-trick-animating-link-underlines/*/)
 
